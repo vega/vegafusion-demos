@@ -2,3 +2,4 @@ pandas>=1.3
 vegafusion-jupyter[embed]>=0.1.0
 vega-datasets
 voila
+tzlocal
