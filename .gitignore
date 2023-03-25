@@ -3,3 +3,5 @@
 _vegafusion_data
 /notebooks/data_import/tmp_flights_donotmodify/
 /.idea/
+vegafusion-server*
+node_modules
