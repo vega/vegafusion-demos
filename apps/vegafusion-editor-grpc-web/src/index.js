@@ -105,7 +105,7 @@ let flights_spec = {
         {"name": "brush_store"},
         {
             "name": "source_0",
-            "url": "https://raw.githubusercontent.com/vega/vega-datasets/main/data/flights-2k.json",
+            "url": "datasets/flights_200k.feather",
             "format": {"type": "json", "parse": {"date": "date"}},
             "transform": [
                 {

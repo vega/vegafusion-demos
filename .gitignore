@@ -5,3 +5,4 @@ _vegafusion_data
 /.idea/
 vegafusion-server*
 node_modules
+/apps/vegafusion-editor-grpc-web/datasets/
